@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BiPolarCoder86
 - 👀 I’m interested in Software Development / Fullstack
-- 🌱 I’m currently learning SQL, Power BI and Front End
+- 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me, you can DM through Twitter @Bipolarcoder86 or Discord @ BiPolarCoder#9105
 
 <!---
